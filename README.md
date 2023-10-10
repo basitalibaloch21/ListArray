@@ -1,3 +1,2 @@
 # ListArray
-This is a linear data structure similar to that of a linked list, where each node is composed of arrays. This data structure supports dynamic resizing upon removal/addition of elements.
-This is a revised/updated version of my older ListArray I created for a class project. WORK IN PROGRESS!!!!
+This is a linear data structure similar to that of a Linked-List, however, each node of the structure contains an array. This structure supports dynamic resizing in cases of addition/removal of elements when appropriate. The data structure was created in April of 2023 as a class project, but I have since revisited it and rewritten a majority of the codebase to be more efficient. I am aware there are some edge cases that need to be reworked, it is a work in progress.
